@@ -11,13 +11,13 @@ _________________
 
 🔧 Projects
 - `owner` [`🚧 spencer-sliffe/KobraStocks 🚧`](https://github.com/spencer-sliffe/KobraStockse)
-- `owner` [`spencer-sliffe/KobraLocks`](https://github.com/spencer-sliffe/KobraLocks)
+- `owner` [`🚧 spencer-sliffe/KobraLocks 🚧`](https://github.com/spencer-sliffe/KobraLocks)
 - `owner` [`spencer-sliffe/OfficialKobraApp`](https://github.com/spencer-sliffe/OfficialKobraApp)
 - `owner` [`spencer-sliffe/PalsPools`](https://github.com/spencer-sliffe/PalsPolls)
 - `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
-- `Software Developer` [`@ Studious Pro`]([https://questanalytics.com/](https://github.com/studious-eng/studious-pro)) `Aug 2024 -`
+- `Software Developer` [`Studious Pro`]([https://questanalytics.com/](https://github.com/studious-eng/studious-pro)) `Aug 2024 -`
 
 🎓 Education
 - `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2020 - SPR 2025`
