@@ -14,7 +14,7 @@ _________________
 - `owner` [`spencer-sliffe/KobraLocks`](https://github.com/spencer-sliffe/KobraLocks)
 - `owner` [`spencer-sliffe/OfficialKobraApp`](https://github.com/spencer-sliffe/OfficialKobraApp)
 - `owner` [`spencer-sliffe/PalsPools`](https://github.com/spencer-sliffe/PalsPolls)
-- `contributor` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
+- `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
 - `Software Developer` [`@ Studious Pro`]([https://questanalytics.com/](https://github.com/studious-eng/studious-pro)) `Aug 2024 -`
@@ -37,8 +37,7 @@ _________________
 -->
 
 <p align="center">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=spencer-sliffe&count_private=true&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"" />
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencer-sliffe&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped&hide=java" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencer-sliffe&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped&hide=java" />
 </p>
 
 <!--
