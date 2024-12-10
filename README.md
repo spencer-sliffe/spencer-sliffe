@@ -17,10 +17,10 @@ _________________
 - `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
-- `Software Developer` [`Studious Pro`]([https://questanalytics.com/](https://github.com/studious-eng/studious-pro)) `Aug 2024 -`
+- `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 -`
 
 🎓 Education
-- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2020 - SPR 2025`
+- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2020 - SUM 2025`
 
 _________________
 
