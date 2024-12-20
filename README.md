@@ -10,7 +10,7 @@ I develop software in my free time for fun, school, and work!
 _________________
 
 🔧 Projects
-- `owner` [`🚧 spencer-sliffe/KobraBites 🚧`](https://github.com/spencer-sliffe/KobraBites)
+- `owner` [`🚧 spencer-sliffe/KobraSuite 🚧`](https://github.com/spencer-sliffe/KobraSuite)
 - `owner` [`spencer-sliffe/KobraStocks`](https://github.com/spencer-sliffe/KobraStocks)
 - `owner` [`spencer-sliffe/KobraLocks`](https://github.com/spencer-sliffe/KobraLocks)
 - `owner` [`spencer-sliffe/OfficialKobraApp`](https://github.com/spencer-sliffe/OfficialKobraApp)
