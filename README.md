@@ -1,6 +1,6 @@
 Hi there 👋
 
-I develop software in my free time for fun, school, and work!
+I develop software for work, school, and fun!
 
 <!--
 [`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
