@@ -1,6 +1,7 @@
 Hi there 👋
 
 I develop software for work, school, and fun!
+Bridge the gap with minimal resources🍿
 
 <!--
 [`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
