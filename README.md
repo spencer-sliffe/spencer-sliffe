@@ -3,15 +3,14 @@ Hi there 👋
 I develop software for work, school, and fun!
 Bridge the gap with minimal resources🍿
 
-<!--
-[`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
-|
--->
+
+[`450+ Free Movies and TV Shows no ads`](https://gitgoon.com/ 'gitgoon.com')
 [`linkedin 💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
 _________________
 
 🔧 Projects
-- `owner` [`🚧 spencer-sliffe/KobraSuite 🚧`](https://github.com/spencer-sliffe/KobraSuiteApp)
+- `owner` [`🚧 spencer-sliffe/skogadesigns 🚧`](https://github.com/spencer-sliffe/skogadesigns)
+- `owner` [`spencer-sliffe/KobraSuite`](https://github.com/spencer-sliffe/KobraSuiteApp)
 - `owner` [`spencer-sliffe/KobraStocks`](https://github.com/spencer-sliffe/KobraStocks)
 - `owner` [`spencer-sliffe/KobraLocks`](https://github.com/spencer-sliffe/KobraLocks)
 - `owner` [`spencer-sliffe/OfficialKobraApp`](https://github.com/spencer-sliffe/OfficialKobraApp)
@@ -22,6 +21,7 @@ _________________
 - `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 - April 2025`
 
 🎓 Education
+- `Electrical Engineering (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2025 - `
 - `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2021 - SUM 2025`
 
 _________________
