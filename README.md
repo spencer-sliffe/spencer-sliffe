@@ -22,7 +22,7 @@ _________________
 
 🎓 Education
 - `Electrical Engineering (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2025 - `
-- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2021 - SUM 2025`
+- `(COMPLETE)Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2021 - SUM 2025`
 
 _________________
 
