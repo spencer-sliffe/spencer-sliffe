@@ -3,9 +3,9 @@ Hi there 👋
 I develop software for work, school, and fun!
 Django Specialist | Full Stack Specialist 
 
-[`linkedin 💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
+[`linkedin💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
 |
-[`450+ Free Movies and TV Shows no ads`](https://gitgoon.com/ 'gitgoon.com')
+[`Free Movies & TV🍿`](https://gitgoon.com/ 'gitgoon.com')
 _________________
 
 🔧 Projects
