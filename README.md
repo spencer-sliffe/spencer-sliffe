@@ -1,11 +1,11 @@
 Hi there 👋
 
 I develop software for work, school, and fun!
-Bridge the gap with minimal resources🍿
+Django Specialist | Full Stack Specialist 
 
-
-[`450+ Free Movies and TV Shows no ads`](https://gitgoon.com/ 'gitgoon.com')
 [`linkedin 💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
+|
+[`450+ Free Movies and TV Shows no ads`](https://gitgoon.com/ 'gitgoon.com')
 _________________
 
 🔧 Projects
