@@ -9,6 +9,7 @@ Django Specialist | Full Stack Specialist
 _________________
 
 🔧 Projects
+- `owner` [`🚧 spencer-sliffe/lead-lint-pro 🚧`](https://github.com/spencer-sliffe/lead-lint-pro)
 - `owner` [`🚧 spencer-sliffe/skogadesigns 🚧`](https://github.com/spencer-sliffe/skogadesigns)
 - `owner` [`spencer-sliffe/KobraSuite`](https://github.com/spencer-sliffe/KobraSuiteApp)
 - `owner` [`spencer-sliffe/KobraStocks`](https://github.com/spencer-sliffe/KobraStocks)
