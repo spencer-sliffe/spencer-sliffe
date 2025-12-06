@@ -1,7 +1,6 @@
 Hi there 👋
 
 I develop software for work, school, and fun!
-Django Specialist | Full Stack Specialist 
 
 [`linkedin💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
 |
@@ -19,10 +18,10 @@ _________________
 - `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
-- `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 - April 2025`
+- `Software Architect and Engineer` [`Cornerstone Integration`] `Nov 2025 - present`
+- `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 - Apr 2025`
 
 🎓 Education
-- `Electrical Engineering (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2025 - `
 - `(COMPLETE)Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2021 - SUM 2025`
 
 _________________
