@@ -18,7 +18,7 @@ _________________
 - `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
-- `Software Architect and Engineer` [`Cornerstone Integration`] `Nov 2025 - present`
+- `Software Architect and Engineer` `Cornerstone Integration` `Nov 2025 - present`
 - `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 - Apr 2025`
 
 🎓 Education
