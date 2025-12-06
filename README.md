@@ -39,7 +39,10 @@ _________________
 -->
 
 <p align="center">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencer-sliffe&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped&hide=java" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencer-sliffe&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped&hide=java"
+    style="max-width: 460px;"
+  />
 </p>
 
 <!--
