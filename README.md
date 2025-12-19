@@ -3,8 +3,6 @@ Hi there 👋
 I develop software for work, school, and fun!
 
 [`linkedin💼`](https://www.linkedin.com/in/spencer-sliffe/ 'My LinkedIn')
-|
-[`Free Movies & TV🍿`](https://gitgoon.com/ 'gitgoon.com')
 _________________
 
 🔧 Projects
