@@ -1,4 +1,4 @@
-Hi there 👋
+Li Hi there 👋
 
 I develop software for work, school, and fun!
 
@@ -16,7 +16,6 @@ _________________
 - `owner` [`spencer-sliffe/TarPit`](https://github.com/spencer-sliffe/TarPit) 
 
 🧑‍💻 Work
-- `Software Engineer` `Cornerstone Integration` `Nov 2025 - present`
 - `Software Developer` [`Studious Pro`]((https://github.com/studious-eng/studious-pro)) `Aug 2024 - Apr 2025`
 
 🎓 Education
